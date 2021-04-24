@@ -1,0 +1,15 @@
+<div>
+  <p>Départ</p>
+
+  <input type="text" #s (keyup)="onStart(s.value)">
+</div>
+<div>
+  <p>Arrivée</p>
+
+  <input type="text" #e (keyup)="onEnd(e.value)">
+</div>
+<div>
+  <button (click)="search()">Rechercher</button>
+</div>
+
+<div id="map" class="map"></div>

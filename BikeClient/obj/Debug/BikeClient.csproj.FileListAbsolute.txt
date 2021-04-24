@@ -1,0 +1,9 @@
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\bin\Debug\BikeClient.exe.config
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\bin\Debug\BikeClient.exe
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\bin\Debug\BikeClient.pdb
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\obj\Debug\BikeClient.csproj.CoreCompileInputs.cache
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\obj\Debug\BikeClient.exe
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\obj\Debug\BikeClient.pdb
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pouey\Documents\cours\SI4\soc\projet\BikeClient\obj\Debug\BikeClient.csproj.CopyComplete
